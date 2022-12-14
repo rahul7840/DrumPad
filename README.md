@@ -1,4 +1,4 @@
-##d DrumPad
+## DrumPad
   
 compact drum set, play dynamic orchestral percussion, 
  clear => dom manipulation
